@@ -12,7 +12,7 @@
   */
 namespace SendGrid;
 
-require __DIR__ . '/../../../vendor/autoload.php';
+// require __DIR__ . '/../../../vendor/autoload.php';
 
 class ReplyTo implements \jsonSerializable
 {
